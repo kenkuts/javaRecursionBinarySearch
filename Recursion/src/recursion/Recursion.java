@@ -9,7 +9,7 @@ import java.util.Scanner;
 /**
  *
  * @author Kenneth R. Kutschera
- * This code is an recursive method calling the binary search algorithm.
+ * This code is a recursive method calling the binary search algorithm.
  */
 public class Recursion {
 
